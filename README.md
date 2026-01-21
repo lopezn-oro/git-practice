@@ -1,3 +1,5 @@
+# Git Practice - Last Updated: January 2026
+
 # git-practice
 Learning Git workflow for release management
 
