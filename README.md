@@ -7,3 +7,6 @@ Learning Git workflow for release management
 - [ ] All PRs merged to testing branch
 - [ ] QA testing complete
 - [ ] Stakeholders notified
+
+## Authors
+- Naydel Lopez - Technical Project Manager
